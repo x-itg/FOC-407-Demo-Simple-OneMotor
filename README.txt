@@ -1,3 +1,8 @@
+这个工程修改自
+https://gitee.com/qaprompt/foc-tutorial/tree/main/FOC-407-Demo
+fork from：
+https://gitee.com/wojialaomuzhu/foc-tutorial
+
 环境：
 使用HAL库编程，硬件平台使用Simple Driver SE
 
@@ -68,9 +73,3 @@ RTT :使用Segger RTT打印调试。
 4.电流环先调试ID再调试IQ
 6.有疑问的地方欢迎骚扰，有错误的地方欢迎批评。
 
-
-感谢：
-感谢灯哥 开源FOC无刷驱动交流群中各位老哥的支持。
-
-联系：
-QQ：965552797@qq.com
